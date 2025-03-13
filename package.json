@@ -1,27 +1,27 @@
 {
-  "name": "git-cz-emoji-vsc",
-  "displayName": "Git CZ Emoji",
+  "name": "git-cz-emoji-vsc-EN",
+  "displayName": "Git CZ Emoji EN",
   "description": "Automatically generate git commit message with prefix",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "engines": {
     "vscode": "^1.40.0"
   },
   "author": {
-    "name": "samyzh",
-    "email": "yessz@foxmail.com"
+    "name": "JoeMan",
+    "email": "JoeMan"
   },
   "categories": [
     "Other"
   ],
-  "publisher": "yessz",
+  "publisher": "JoeMan",
   "license": "MIT",
-  "homepage": "https://github.com/samyzh/git-cz-emoji-vsc/blob/master/README.md",
+  "homepage": "https://github.com/JoeMansour2003/git-cz-emoji-vsc-EN/blob/master/README.md",
   "bugs": {
-    "url": "https://github.com/samyzh/git-cz-emoji-vsc/issues"
+    "url": "https://github.com/JoeMansour2003/git-cz-emoji-vsc-EN/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/samyzh/git-cz-emoji-vsc"
+    "url": "https://github.com/JoeMansour2003/git-cz-emoji-vsc-EN"
   },
   "keywords": [
     "git",
